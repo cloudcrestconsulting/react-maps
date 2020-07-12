@@ -1,0 +1,30 @@
+{
+  "name": "react-maps-hoc",
+  "version": "0.1.0",
+  "description": "Google Maps wrapper for React.",
+  "main": "ReactMaps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudcrestconsulting/react-maps.git"
+  },
+  "keywords": [
+    "Google",
+    "Maps",
+    "React",
+    "React",
+    "Google",
+    "Maps",
+    "React",
+    "Maps",
+    "HOC"
+  ],
+  "author": "James Wylie <james@cloudcrest.co.uk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudcrestconsulting/react-maps/issues"
+  },
+  "homepage": "https://github.com/cloudcrestconsulting/react-maps#readme"
+}
